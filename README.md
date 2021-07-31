@@ -1,3 +1,17 @@
+# MobX Playground
+
+```
+$ yarn
+$ yarn start
+```
+
+참고
+
+- [MobX 6 사용하기](https://www.howdy-mj.me/mobx/mobx6-intro/) (December 09, 2020)
+- [mobx.js.org](https://mobx.js.org/README.html)
+
+---
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
